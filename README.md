@@ -4,6 +4,7 @@ I'm Inssia (IN-see-yuh).
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/YaleOldCampus2009.jpg">
 My Location: Yale University
 
+
 My Current Interests: 
 
 - YDN App Development through the Yale Computer Society

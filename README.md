@@ -3,8 +3,7 @@ I'm Inssia (IN-see-yuh).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/YaleOldCampus2009.jpg">
 My Location: Yale University
-
-
+<br>
 My Current Interests: 
 
 - YDN App Development through the Yale Computer Society
@@ -13,9 +12,9 @@ My Current Interests:
 - Trying to wrap my brain around recursion in racket
 - Developing an iOS app with my friends (it's still very much in the ideation phase :))
 
-Pronouns: she/her/hers
+My Pronouns: she/her/hers
 
-Thank you for reading! Email me at: inssia.ahmed@gmail.com if you have any questions. 
+Thank you for looking through my profile! Email me at: inssia.ahmed@gmail.com if you have any questions. 
 
 “A word after a word after a word is power.” - Margaret Atwood
 

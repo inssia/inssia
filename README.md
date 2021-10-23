@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Memorial_Quadrangle%2C_Yale_University.jpg">
 
 <!--
 **inssia/inssia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,23 +1,7 @@
-### Hi! 👋 
-I'm Inssia (IN-see-yuh). 
+### hi! 👋 
+i'm inssia (IN-see-yuh). take a look around! if you want to know more about me, feel free to check out [inssiaahmed.com](url) :)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/YaleOldCampus2009.jpg">
-My Location: Yale University
-<br>
-My Current Interests: 
-
-- YDN App Development through the Yale Computer Society
-- Coding my own website to start a blog
-- Learning about cyber security (trying to pass the CCNA!)
-- Trying to wrap my brain around recursion in racket
-- Developing an iOS app with my friends (it's still very much in the ideation phase :))
-
-My Pronouns: she/her/hers
-
-Thank you for looking through my profile! Email me at: inssia.ahmed@gmail.com if you have any questions. 
-
-“A word after a word after a word is power.” - Margaret Atwood
-
+currently working: advent of code 2023, wordly
 
 
 

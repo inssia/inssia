@@ -1,5 +1,5 @@
 ### hi! 👋 
-i'm inssia (IN-see-yuh). take a look around! if you want to know more about me, feel free to check out [inssiaahmed.com](url) :)
+i'm inssia (IN-see-yuh). take a look around! if you want to know more about me, feel free to check out [https://www.inssiaahmed.com](url) :)
 
 currently working: advent of code 2023, wordly
 

@@ -1,8 +1,6 @@
 ### hi! 👋 
 i'm inssia (IN-see-yuh). take a look around! if you want to know more about me, feel free to check out [my website](https://www.inssiaahmed.com) :)
 
-currently working on: advent of code 2023, wordly
-
 
 
 <!--
